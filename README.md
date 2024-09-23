@@ -28,10 +28,12 @@ Um dieses Projekt lokal auszuführen:
     cd banderoguzzz
     ```
 
-    © Oleh Kostiv
+   
 3. Öffne die Datei `index.html` im Browser, um die Seite anzuzeigen.
 
 ## Verwendete Technologien
 - **HTML5**: Für die grundlegende Struktur und den Inhalt der Webseite.
 - **CSS3**: Für das Styling der Webseite, einschließlich responsiver Layouts und Schriftintegration.
 - **JavaScript**: Zur Handhabung der Formularinteraktionen und Animationen (Formular-Logik).
+
+ © Oleh Kostiv
