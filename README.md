@@ -1,7 +1,7 @@
 # Banderoguzzz
 
 ## Projektübersicht
-**Banderoguzzz** ist eine humorvolle und ansprechende Webseite, die dem fiktiven Charakter "Banderogus", einem speziellen Kampfgans aus den Biolabors der Ukraine, gewidmet ist. Dieses Projekt kombiniert HTML, CSS und JavaScript, um eine unterhaltsame und visuell ansprechende Darstellung der Geschichte und Fähigkeiten des Charakters zu bieten.
+**Banderoguzzz** ist eine humorvolle und ansprechende Webseite von Oleh Kostiv, die dem fiktiven Charakter "Banderogus", einem speziellen Kampfgans aus den Biolabors der Ukraine, gewidmet ist. Dieses Projekt kombiniert HTML, CSS und JavaScript, um eine unterhaltsame und visuell ansprechende Darstellung der Geschichte und Fähigkeiten des Charakters zu bieten.
 
 Die Seite ist vollständig responsive und enthält:
 - Einen Einführungsbereich, der Besucher mit einem humorvollen Gruß willkommen heißt.
@@ -27,6 +27,8 @@ Um dieses Projekt lokal auszuführen:
     ```bash
     cd banderoguzzz
     ```
+
+    © Oleh Kostiv
 3. Öffne die Datei `index.html` im Browser, um die Seite anzuzeigen.
 
 ## Verwendete Technologien
